@@ -1,0 +1,7 @@
+pypdf
+sentence-transformers
+llama_index
+langchain
+torch
+huggingface_hub
+os
